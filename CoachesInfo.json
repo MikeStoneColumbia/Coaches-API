@@ -12,6 +12,30 @@
 			"hobby": "art",
 			"quotes": ""
 
+		},
+
+		{
+
+			"name" : "Roebuck",
+			"college" : "Columbia University/Howard University",
+			"association" : "ELiTE Co-Founder",
+			"quality": "Pushes students to be their very best",
+			"favorite_food" : "Nepoleean piiza",
+			"hobby": "Hiking",
+			"quotes": ""
+
+		},
+
+		{
+
+			"name" : "Evelyn",
+			"college" : "",
+			"association" : "",
+			"quality": "",
+			"favorite_food" : "Vitetanmese food",
+			"hobby": "Gardening",
+			"quotes": ""
+
 		}
 	
 
