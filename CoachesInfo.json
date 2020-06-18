@@ -70,7 +70,32 @@
 			"hobby": "",
 			"quotes": ""
 
+		},
+
+		{
+
+			"name" : "Emily",
+			"college" : "",
+			"association" : "",
+			"quality": "Extremely sweet with a bright personality",
+			"favorite_food" : "Crab",
+			"hobby": "Reading and Writing",
+			"quotes": ""
+
+		},
+
+		{
+
+			"name" : "Mauricio",
+			"college" : "Fourth Year @ Columbia University",
+			"association" : "",
+			"quality": "",
+			"favorite_food" : "Pupusas",
+			"hobby": "Soccer",
+			"quotes": ""
+
 		}
-	]
+	
+]
 
 }
