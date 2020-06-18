@@ -36,9 +36,41 @@
 			"hobby": "Gardening",
 			"quotes": ""
 
-		}
-	
+		},
 
+		{
+
+			"name" : "Michael Okra",
+			"college" : "Third Year @ Buffalo University",
+			"association" : "",
+			"quality": "",
+			"favorite_food" : "",
+			"hobby": "",
+			"quotes": ""
+
+		},	
+		{
+
+			"name" : "Michael Stone",
+			"college" : "Fourth Year @ Columbia University",
+			"association" : "Computer Science Coach @ CodeNext",
+			"quality": "Extremely smart, helpful, and insightful with CS stuff",
+			"favorite_food" : "Thai Curry (r,g,y)",
+			"hobby": "Gaming",
+			"quotes": ""
+
+		},
+		{
+
+			"name" : "Natalie",
+			"college" : "NYU/Boston University",
+			"association" : "Community Manager @ Google",
+			"quality": "",
+			"favorite_food" : "",
+			"hobby": "",
+			"quotes": ""
+
+		}
 	]
 
 }
