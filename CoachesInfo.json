@@ -10,7 +10,7 @@
 			"quality": "Very understanding of the youth",
 			"favorite_food" : "",
 			"hobby": "art",
-			"quotes": "Hey wassup guys, come on down please follow a few rules to keep me in good condition!%I am hungry let's eat"
+			"quotes": "Hey wassup guys, come on down. Please follow a few rules to keep me in good condition!%I am hungry let's eat%I want to finish a piece of artwork%Frozen has lost the ice, all my bars are low. Improve your performance next time!"
 
 		},
 
@@ -20,21 +20,21 @@
 			"college" : "Columbia University/Howard University",
 			"association" : "ELiTE Co-Founder",
 			"quality": "Pushes students to be their very best",
-			"favorite_food" : "Nepoleean piiza",
+			"favorite_food" : "Nepoleean pizza",
 			"hobby": "Hiking",
-			"quotes": ""
+			"quotes": "Ugh, hello, I'm coach Roebuck, thank you for taking care of me. I like and require a lot of things *talks for 5 minutes about his care*%The delivery person needs to hurry with my Nepoleean Pizza%I am disapointed in your performance, please do better next time!"
 
 		},
 
 		{
 
 			"name" : "Evelyn",
-			"college" : "",
-			"association" : "",
-			"quality": "",
+			"college" : "University of Puerto Rico",
+			"association" : "Many elected positions at UPR, including University Senate",
+			"quality": "CodeNext mother figure, very stern but caring. She has all the food hookups",
 			"favorite_food" : "Vitetanmese food",
 			"hobby": "Gardening",
-			"quotes": ""
+			"quotes": "Hey kids, be responsible and take care of me!%I'm hungry, feed me a balanced meal with a salad%Let's fix up my beautiful garden!%You have failed at being responsible enough to take care of your loving coach.%This will have immense consquences."
 
 		},
 
@@ -42,9 +42,9 @@
 
 			"name" : "Michael Okra",
 			"college" : "Third Year @ Buffalo University",
-			"association" : "",
-			"quality": "",
-			"favorite_food" : "",
+			"association" : "Biomedical Engineer Intern @ Columbia University",
+			"quality": "Funny dude and very enthusiastic about boxing.",
+			"favorite_food" : "Jollof rice",
 			"hobby": "",
 			"quotes": ""
 
@@ -57,7 +57,7 @@
 			"quality": "Extremely smart, helpful, and insightful with CS stuff",
 			"favorite_food" : "Thai Curry (r,g,y)",
 			"hobby": "Gaming",
-			"quotes": ""
+			"quotes": "Sup take care of me.%I'm a hugry compe engineering college student, the struggle is serverly real.%Feed me please.%I want to play Leauge of Legends.%ARE YOU SERIOUS"
 
 		},
 		{
@@ -65,9 +65,9 @@
 			"name" : "Natalie",
 			"college" : "NYU/Boston University",
 			"association" : "Community Manager @ Google",
-			"quality": "",
+			"quality": "Very bright and friendly.",
 			"favorite_food" : "",
-			"hobby": "",
+			"hobby": "Biking",
 			"quotes": ""
 
 		},
@@ -75,8 +75,8 @@
 		{
 
 			"name" : "Emily",
-			"college" : "",
-			"association" : "",
+			"college" : "City College",
+			"association" : "New York Urban Leauge",
 			"quality": "Extremely sweet with a bright personality",
 			"favorite_food" : "Crab",
 			"hobby": "Reading and Writing",
@@ -88,8 +88,8 @@
 
 			"name" : "Mauricio",
 			"college" : "Fourth Year @ Columbia University",
-			"association" : "",
-			"quality": "",
+			"association" : "Teacher Assistant @ Columbia University",
+			"quality": "Very quirky",
 			"favorite_food" : "Pupusas",
 			"hobby": "Soccer",
 			"quotes": ""
