@@ -94,6 +94,18 @@
 			"hobby": "Soccer",
 			"quotes": ""
 
+		},
+
+		{
+
+			"name" : "Stephanie",
+			"college" : "Columbia University",
+			"association" : "ELiTE",
+			"quality": "Belief that with patience and a supporting mentor everyone can learn anything",
+			"favorite_food" : "Spicy salmon avocado sush",
+			"hobby": "Reading and learning about multimedia production",
+			"quotes": "Does anyone want to answer? I can't see so speak up.%My pet peeve is students that copy code.%Join me at office hours!%Ask questions, I am here to help!"
+
 		}
 	
 ]
